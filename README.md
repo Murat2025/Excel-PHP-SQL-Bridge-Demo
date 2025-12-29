@@ -32,8 +32,8 @@ I am a certified specialist in database implementation and web development:
 
 I am open to freelance opportunities and consulting projects.
 
-- **LinkedIn:** [Dein Profil-Link hier einfügen]
-- **Email:** elektroanschlussprofi@gmail.com
+- **LinkedIn:** www.linkedin.com/in/excelphpbridge
+- **Email:** support@excelphpbridge.com
 - **Fiverr:** [excelphpbridge](https://www.fiverr.com/excelphpbridge)
 
 ---
